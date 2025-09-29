@@ -5,6 +5,8 @@ description: Lecture notes about flexibility in Real Estate Project Development 
 file: /courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/da7fc9ce9967f8b951fc202ca65a60a7_flexibility2.pdf
 file_size: 213116
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

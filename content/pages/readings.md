@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of readings by session and a list
   of additional readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -181,10 +183,10 @@ Additional Readings
 
 de Neufville, Richard, Stefan Scholtes, and Tao Wang. "Real Options by Spreadsheet: Parking Garage Case Example." _Journal of Infrastructure Systems_ 12, no. 2 (2006): 107-111.
 
-Fisher, Jeff, David Geltner, and Henry Pollakowski. "{{% resource_link "b8c3874d-2225-470e-b7bf-00fcaa0d6feb" "A Quarterly Transactions-Based Index of Institutional Real Estate Investment Performance and Movements in Supply and Demand" %}}." _Journal of Real Estate Finance and Economics_ 34, no. 1 (2007): 5-33.
+Fisher, Jeff, David Geltner, and Henry Pollakowski. "[A Quarterly Transactions-Based Index of Institutional Real Estate Investment Performance and Movements in Supply and Demand](https://link.springer.com/article/10.1007/s11146-007-9001-6)." _Journal of Real Estate Finance and Economics_ 34, no. 1 (2007): 5-33.
 
-Fisher, Jeff, Dean Gatzlaff, David Geltner, and Donald Haurin. "{{% resource_link "15e7aa72-f60f-43bf-ad68-a979dbc15095" "Controlling for the Impact of Variable Liquidity in Commercial Real Estate Price Indices" %}}." _Real Estate Economics_ 31, no. 2 (2003): 269-303.
+Fisher, Jeff, Dean Gatzlaff, David Geltner, and Donald Haurin. "[Controlling for the Impact of Variable Liquidity in Commercial Real Estate Price Indices](https://doi.org/10.1111/1540-6229.00066)." _Real Estate Economics_ 31, no. 2 (2003): 269-303.
 
-Geltner, David, and David Ling. "{{% resource_link "1e83f210-8527-41da-9837-984b311ca1e2" "Considerations in the Design and Construction of Investment Real Estate Research Indices" %}}." _Journal of Real Estate Research_ 28, no. 4 (2006): 411-444.
+Geltner, David, and David Ling. "[Considerations in the Design and Construction of Investment Real Estate Research Indices](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=951466)." _Journal of Real Estate Research_ 28, no. 4 (2006): 411-444.
 
 Geltner, David, and Henry Pollakowski. "A Set of Indexes for Trading Commercial Real Estate Based on the Real Capital Analytics Transaction Prices Database." Working paper, MIT Center for Real Estate, 2006.

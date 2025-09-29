@@ -5,6 +5,8 @@ description: Lecture notes about Considerations in the Design and Construction o
 file: /courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/4350398edf5190981784f37165eb2e64_research_indices.pdf
 file_size: 290414
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
