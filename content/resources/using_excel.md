@@ -5,8 +5,6 @@ description: Lecture notes about Engineering Economy Module, Adapted from Prof. 
 file: /courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/e2174f8ce9c01ed09ffe775e98120ce5_using_excel.pdf
 file_size: 149373
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

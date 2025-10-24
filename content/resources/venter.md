@@ -5,8 +5,6 @@ description: 'Example of a completed student project: An Analysis of the Barrier
 file: /courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/c8f3f68ba81072d0f94d05829ad04c4f_venter.pdf
 file_size: 42942
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
